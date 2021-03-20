@@ -3,4 +3,5 @@
 	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 	<bean id="myPerson" class="com.lyqishan.helloworld.entity.Person"/>
+	<bean id="personService" class="com.lyqishan.helloworld.service.impl.PersonServiceImpl"/>
 </beans>
