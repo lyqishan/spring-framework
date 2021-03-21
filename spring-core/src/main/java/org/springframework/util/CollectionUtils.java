@@ -33,7 +33,7 @@ import java.util.SortedSet;
 import org.springframework.lang.Nullable;
 
 /**
- * Miscellaneous collection utility methods.
+ * Miscellaneous collection utility methods. [ˌmɪsəˈleɪniəs] 各种各样的
  * Mainly for internal use within the framework.
  *
  * @author Juergen Hoeller
